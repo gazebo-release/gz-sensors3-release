@@ -1,6 +1,6 @@
-ignition-sensors3 (2.999.999-1~bionic) bionic; urgency=medium
+ignition-sensors3 (3.0.0~pre1-1~bionic) bionic; urgency=medium
 
-  * Stub to be removed after first entry
+  * ignition-sensors3 3.0.0~pre1-1 release
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Dec 2019 23:51:38 +0100
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Dec 2019 23:54:49 +0100
 
