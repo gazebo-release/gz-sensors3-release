@@ -1,3 +1,9 @@
+ignition-sensors3 (3.0.0~pre1-3~bionic) bionic; urgency=medium
+
+  * ignition-sensors3 3.0.0~pre1-3 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 04 Dec 2019 22:11:43 -0800
+
 ignition-sensors3 (3.0.0~pre1-2~bionic) bionic; urgency=medium
 
   * ignition-sensors3 3.0.0~pre1-2 release
