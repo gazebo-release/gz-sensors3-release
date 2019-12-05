@@ -1,3 +1,9 @@
+ignition-sensors3 (3.0.0~pre1-4~bionic) bionic; urgency=medium
+
+  * ignition-sensors3 3.0.0~pre1-4 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 05 Dec 2019 16:08:27 +0100
+
 ignition-sensors3 (3.0.0~pre1-3~bionic) bionic; urgency=medium
 
   * ignition-sensors3 3.0.0~pre1-3 release
