@@ -427,6 +427,7 @@ Depends: libignition-sensors3-core-dev,
          libignition-sensors3-magnetometer-dev,
          libignition-sensors3-rendering-dev,
          libignition-sensors3-rgbd-camera-dev,
+         libignition-sensors3-thermal-camera-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition sensors2 classes and functions for robot apps - Metapackage
