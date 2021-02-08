@@ -1,3 +1,9 @@
+ignition-sensors3 (3.2.0-1~focal) focal; urgency=medium
+
+  * ignition-sensors3 3.2.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Mon, 08 Feb 2021 12:50:48 -0700
+
 ignition-sensors3 (3.1.0-1~focal) focal; urgency=medium
 
   * ignition-sensors3 3.1.0-1 release
