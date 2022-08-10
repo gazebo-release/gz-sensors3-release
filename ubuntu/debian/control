@@ -38,8 +38,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Development files
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Development files
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
 
 Package: libignition-sensors3
@@ -48,8 +48,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Shared library
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Shared library
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
 
 Package: libignition-sensors3-air-pressure-dev
@@ -62,8 +62,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-air-pressure (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files air-pressure
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files air-pressure
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for air-pressure sensor
@@ -74,8 +74,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib air-pressure
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib air-pressure
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for air-pressure sensor
@@ -90,8 +90,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-altimeter (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files altimeter
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files altimeter
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for altimeter sensor
@@ -102,8 +102,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib altimeter
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib altimeter
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for altimeter sensor
@@ -122,8 +122,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-camera (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files Camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files Camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for Camera sensor
@@ -134,8 +134,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib Camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib Camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for Camera sensor
@@ -154,8 +154,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-depth-camera (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files depth-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files depth-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for depth-camera sensor
@@ -166,8 +166,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib depth-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib depth-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   . Shared library for depth-camera sensor
 
@@ -182,8 +182,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-imu (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files imu
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files imu
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for imu sensor
@@ -194,8 +194,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib imu
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib imu
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for imu sensor
@@ -214,8 +214,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-lidar (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files lidar
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files lidar
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for lidar sensor
@@ -226,8 +226,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib lidar
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib lidar
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for lidar sensor
@@ -246,8 +246,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-gpu-lidar (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files gpu-lidar
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files gpu-lidar
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for gpu-lidar sensor
@@ -258,8 +258,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib gpu-lidar
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib gpu-lidar
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for gpu-lidar sensor
@@ -277,8 +277,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-logical-camera (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files logical-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files logical-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for logical-camera sensor
@@ -289,8 +289,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib logical-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib logical-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for logical-camera sensor
@@ -306,8 +306,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-magnetometer (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files magnetometer
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files magnetometer
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for magnetometer sensor
@@ -318,8 +318,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib magnetometer
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib magnetometer
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for magnetometer sensor
@@ -335,8 +335,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-rendering (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files rendering
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files rendering
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for rendering sensor
@@ -347,8 +347,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib rendering
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib rendering
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for rendering sensor
@@ -394,8 +394,8 @@ Depends: libignition-cmake2-dev (>= 2.8.0),
          libignition-sensors3-thermal-camera (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Dev files thermal-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Dev files thermal-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Development files for thermal-camera sensor
@@ -406,8 +406,8 @@ Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Lib thermal-camera
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Lib thermal-camera
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Shared library for thermal-camera sensor
@@ -430,8 +430,8 @@ Depends: libignition-sensors3-core-dev (= ${binary:Version}),
          libignition-sensors3-thermal-camera-dev (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo sensors2 classes and functions for robot apps - Metapackage
-  Gazebo sensors2 is a component in the Gazebo framework, a set of libraries
+Description: Gazebo Sensors classes and functions for robot apps - Metapackage
+  Gazebo Sensors is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
   .
   Metapackage for all the -dev files
